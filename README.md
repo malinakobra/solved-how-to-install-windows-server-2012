@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-how-to-install-windows-server-2012
+<br>
+Write a 350- to 500-word paper on how to install Windows Server® 2012 on the servers at Wadley, Inc. This can be based on your Week Two Learning Team discussion.  Please discuss any material with your team mates as they can provide feedback as well as knowledge to your assignment. Also, cover how to install Active Directory® and how it functions. Explain the schema and global catalog. Outline the creation of users, organizational units, and security groups for all company departments. Use APA formatting.
